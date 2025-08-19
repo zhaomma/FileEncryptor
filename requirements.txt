@@ -1,0 +1,3 @@
+# 文件加密打包工具依赖项
+# 安装方法: pip install -r requirements.txt
+pyzipper
